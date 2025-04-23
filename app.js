@@ -20,7 +20,7 @@ app.post('/greet', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-      <title>Greeting</title>
+      <title>Greeting App</title>
       <style>
         body { font-family: Arial, sans-serif; margin: 40px; text-align: center; }
         .greeting { font-size: 24px; margin: 20px; }
